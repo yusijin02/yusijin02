@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 👀 I'm interested in computer vision, generative models, and neural decoding
 - 🌱 I'm currently a master student (2024 ~ 2027) at South China University of Technology, majoring in electronic information engineering
 - 📫 Welcome to contact me at [eeyusijin@mail.scut.edu.cn](mailto:email@eeyusijin@mail.scut.edu.cn)
-- ✨ My homepage: [yusijin02.github.io](https://yusijin02.github.io/)
